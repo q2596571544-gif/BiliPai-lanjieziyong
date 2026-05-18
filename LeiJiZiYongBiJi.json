@@ -3,7 +3,7 @@
   "name": "标题关键词过滤",
   "description": "过滤包含指定关键词的视频",
   "version": "1.0.0",
-  "author": "BiliPai",
+  "author": "朔㷰磐",
   "type": "feed",
   "rules": [
     {
